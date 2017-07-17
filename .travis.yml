@@ -7,4 +7,4 @@ python:
   - 3.5
   - 3.6
 script:
-  - python -m unittest testdemo
+  - python print "Hello World"
